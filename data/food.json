@@ -1,0 +1,17 @@
+{
+  "account": {
+    "firstname": "Tanja",
+    "lastname": "Ristic",
+    "email": "21469tm@gmail.com"
+  },
+  "order": [
+    {
+      "package": "DOUBLE BURGER",
+      "quantity": 2
+    },
+    {
+      "package": "HEART ATTACK",
+      "quantity": 4
+    }
+  ]
+}
